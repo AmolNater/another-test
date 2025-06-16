@@ -23,7 +23,7 @@
 S-Cart is the best free e-commerce website project for individuals and businesses, built on top of Laravel Framework and the latest technologies.
 Our goal is "Efficient and friendly for everyone":
 - Efficiency: Meet even the smallest requirements of customers.
-- Friendly: Easy to use, easy to maintain, easy to develop.
+- Friendly:  Use, easy to maintain, easy to develop.
 - Everyone: Businesses, individuals, developers, students.
 
 ## IMAGES:
